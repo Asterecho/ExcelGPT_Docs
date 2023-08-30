@@ -4,6 +4,8 @@
 
 > 插件更新地址 [蓝奏云](https://ifwz.lanzouw.com/b07dbq48f)  密码：6666
 
+> 交流群  &emsp; &emsp; 1群：585492948  &emsp; &emsp;2群：737986083
+
 ## 安装插件
 
 WPS版

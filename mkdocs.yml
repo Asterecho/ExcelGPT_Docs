@@ -1,4 +1,11 @@
 site_name: 'ExcelGPT'
 nav:
-    - Home: 'index.md'
+    - 入门: 'index.md'
+    - AI函数的高阶用法: 'ai.md'
+    - AI交互窗口的用法: 'plus.md'
+    - Jupyter界面入门: 'jupyterbasic.md'
+    - 通过Jupyter链接Excel与python: 'jupyter.md'
+    - 本地知识库: 'local.md'
+    - 致谢: 'thanks.md'
+    - 捐助: 'donate.md'
 theme: 'readthedocs'
